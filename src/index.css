@@ -1,0 +1,30 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Noto-Sans";
+}
+
+.background-screen {
+  background: #E5E5E5;
+}
+
+input[type=text] {
+  border-top: none;
+  border-left: none;
+  border-right: none;
+}
+
+.text-color:focus {
+  outline-color: #C5C5C5;
+}
+
+.text-color::placeholder {
+  color: black;
+}
