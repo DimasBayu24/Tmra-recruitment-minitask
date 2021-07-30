@@ -29,7 +29,7 @@ function createData(name, calories, fat, carbs, protein) {
 
 const rows = [
   createData('Pembangunan Rumah', '01-01-2021', '21-01-2021', 2000000, 203),
-  createData('Pembangunan Rumah', '01-01-2021', '21-01-2021', 2000000, 203),
+  createData('Biaya Rumah Sakit', '01-01-2021', '21-01-2021', 2000000, 203),
   createData('Pembangunan Rumah', '01-01-2021', '21-01-2021', 2000000, 203),
   createData('Pembangunan Rumah', '01-01-2021', '21-01-2021', 2000000, 203),
   createData('Pembangunan Rumah', '01-01-2021', '21-01-2021', 2000000, 203),

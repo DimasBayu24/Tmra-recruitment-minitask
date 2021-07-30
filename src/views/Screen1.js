@@ -10,9 +10,9 @@ const Screen1 = () => {
         <div className="w-full h-auto mx-auto px-0 background-screen" >
             <Header />
             <div className="flex flex-col sm:flex-row " >
-            <Card text="Campaign Total" number="1000" logo="file"/>
-            <Card text="Campaign Total" number="1000" logo="check"/>
-            <Card text="Campaign Total" number="1000" logo="tractor"/>
+            <Card text="Campaign Total" number="1200" logo="file"/>
+            <Card text="Succeded Campaign" number="784" logo="check"/>
+            <Card text="Amount Spend" number="Rp 1.236.000.000,-" logo="tractor"/>
             </div>
             <div className="mx-4" >
             <Table />
